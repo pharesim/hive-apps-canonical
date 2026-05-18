@@ -3,5 +3,5 @@
   "ecency": "https://ecency.com/@{author}/{permlink}",
   "hiveblog": "https://hive.blog/@{author}/{permlink}",
   "leothreads": "https://inleo.io/threads/@{author}/{permlink}",
-  "hivecomb": "https://hivecomb.net//@{author}/{permlink}",
+  "hivecomb": "https://hivecomb.net//@{author}/{permlink}"
 }
