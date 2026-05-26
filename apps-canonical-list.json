@@ -7,5 +7,6 @@
   "liketu":     "https://liketu.com/@{author}/{permlink}",
   "waivio":     "https://www.waivio.com/@{author}/{permlink}",
   "travelfeed": "https://travelfeed.com/@{author}/{permlink}",
-  "3speak":     "https://3speak.tv/watch?v={author}/{permlink}"
+  "3speak":     "https://3speak.tv/watch?v={author}/{permlink}",
+  "actifit":    "https://actifit.io/@{author}/{permlink}"
 }
